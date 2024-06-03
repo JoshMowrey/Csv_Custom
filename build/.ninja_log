@@ -1,0 +1,25 @@
+# ninja log v5
+6	784	1717455385911157122	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDateTime.cpp.o	5cf2f7041f726ca1
+3	1163	1717455386291160847	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColor.cpp.o	638f5b8c220163c5
+14	3812	1717455388939186816	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLProperties.cpp.o	14c85b0370df2fb3
+3	1539	1717455386667164533	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellReference.cpp.o	34c7cf8f497ef32d
+1	1836	1717455795435353493	CMakeFiles/Csv_Custom.dir/Csv_Custom.cpp.o	6c96c8db0af87ef0
+2	4141	1717455389271190073	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellIterator.cpp.o	85eae30b9d22c87e
+3	4161	1717455389287190230	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellValue.cpp.o	3dbbdeaee28af9ae
+6	1750	1717455386879166612	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLFormula.cpp.o	2556f746f63df13a
+35	2447	1717455387575173437	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRelationships.cpp.o	e66ce41066c48768
+3	2862	1717455387987177477	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLContentTypes.cpp.o	a712b7fbf653d483
+784	3558	1717455388683184305	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRow.cpp.o	a09606949d7b0ac4
+3	1592	1717455386719165043	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColumn.cpp.o	29cf90cf2d093843
+6	4256	1717455389383191172	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDocument.cpp.o	ac3293dcfddc328e
+1539	4104	1717455389231189681	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSharedStrings.cpp.o	1f094479372d8057
+1163	5611	1717455390739204480	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRowData.cpp.o	3056001dec4630e6
+2	3240	1717455388367181205	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellRange.cpp.o	21c8ace95dfe75a7
+2447	5260	1717455390387201025	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlData.cpp.o	c931619d564fcbc
+6513	6645	1717455391771214611	output/libOpenXLSXd.a	5ad5c52525621904
+2	3973	1717455389099188385	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCell.cpp.o	9cccaaf715e73a81
+1836	2132	1717455795731356627	output/Csv_Custom	6c945cb8a0007dce
+3240	6513	1717455391639213315	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLZipArchive.cpp.o	dcce5c503aec9272
+2862	4681	1717455389811195371	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlFile.cpp.o	94821fd4ff25c58a
+1592	6242	1717455391367210645	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSheet.cpp.o	ca2a717716e780c4
+1750	5338	1717455390467201810	OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLWorkbook.cpp.o	5e487f51f5bee368

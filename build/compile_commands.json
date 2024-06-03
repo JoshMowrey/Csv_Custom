@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build\" -I\"/home/josh/Personal Projects/Csv_Custom\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -g -o CMakeFiles/Csv_Custom.dir/Csv_Custom.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/Csv_Custom.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/Csv_Custom.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCell.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCell.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCell.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellIterator.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellIterator.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellIterator.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellRange.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellRange.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellRange.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellReference.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellReference.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellReference.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellValue.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellValue.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLCellValue.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColor.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLColor.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLColor.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColumn.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLColumn.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLColumn.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLContentTypes.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLContentTypes.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLContentTypes.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDateTime.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLDateTime.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLDateTime.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDocument.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLDocument.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLDocument.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLFormula.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLFormula.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLFormula.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLProperties.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLProperties.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLProperties.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRelationships.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRelationships.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRelationships.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRow.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRow.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRow.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRowData.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRowData.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLRowData.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSharedStrings.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLSharedStrings.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLSharedStrings.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSheet.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLSheet.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLSheet.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLWorkbook.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLWorkbook.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLWorkbook.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlData.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLXmlData.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLXmlData.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlFile.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLXmlFile.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLXmlFile.cpp"
+},
+{
+  "directory": "/home/josh/Personal Projects/Csv_Custom/build",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I\"/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX\" -I\"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/headers\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/zippy\" -isystem \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/external/pugixml\" -g -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -std=c++17 -o OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLZipArchive.cpp.o -c \"/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLZipArchive.cpp\"",
+  "file": "/home/josh/Personal Projects/Csv_Custom/OpenXLSX/sources/XLZipArchive.cpp"
+}
+]

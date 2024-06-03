@@ -1,0 +1,15 @@
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/other.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/Csv_Custom.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/edit_cache.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/rebuild_cache.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/list_install_components.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/install.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/install/local.dir
+/home/josh/Personal Projects/Csv_Custom/build/CMakeFiles/install/strip.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/OpenXLSX.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/edit_cache.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/rebuild_cache.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/list_install_components.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/install.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/install/local.dir
+/home/josh/Personal Projects/Csv_Custom/build/OpenXLSX/CMakeFiles/install/strip.dir

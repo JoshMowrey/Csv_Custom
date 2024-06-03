@@ -1,0 +1,5 @@
+Folder Location: /home/josh/Downloads/SpreadSheets
+States: AK, WA, OR, CA, MT, ID, WY, UT, CO, AZ, NM, NV, HI
+Full States: Alaska, Washington, Oregon, California, Montana, Idaho, Wyoming, Utah, Colorado, Arizona, New Mexico, Nevada, Hawaii
+Output File Desired Location: /home/josh/Out
+Output File Desired Name: Out.xlxs
